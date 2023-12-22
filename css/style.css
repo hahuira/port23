@@ -1,0 +1,47 @@
+* { margin: 0;
+padding: 0;}
+
+.port {
+    width: 1920px;
+    margin: 0 auto;
+}
+
+.port img {
+
+    text-align: center;
+}
+
+.a1 {
+    position: relative;
+
+    height: 6000px;
+}
+
+.a3 {
+
+    height: 4496px;
+}
+
+.title {
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    width: 1037px;
+    height: 223px;
+    margin: 0 auto;
+
+    top: 340px;
+    left: 41%;
+    /* padding-left: -518px; */
+
+
+}
+
+.mm video {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+
+}
